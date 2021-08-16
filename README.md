@@ -1,8 +1,13 @@
 # hotSpot
 
+# Proteome-wide detection of immunogenic hotspots
+
 Installation:
 ____________
 
+    Install predivac(v3.0) before installing this package (Oyarzun P, Kashyap M, Fica V, et al (2021). Front. Immunol. 12:598778. doi: 10.3389/fimmu.2021.598778)
+    In future, this package can be applied to the output files of other packages (NetMHCPan etc.)
+    
     cd hotSpot
     pip install ./
 
