@@ -1,6 +1,4 @@
-# hotSpot
-
-# Proteome-wide detection of immunogenic hotspots
+# hotSpot: Proteome-wide detection of immunogenic hotspots
 
 Installation:
 ____________
