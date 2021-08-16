@@ -1,5 +1,8 @@
 # hotSpot: Proteome-wide detection of immunogenic hotspots
 
+![fimmu-12-598778-g008](https://user-images.githubusercontent.com/51758766/129578836-e0119f02-0064-4dce-8264-42ed985034a1.jpg)
+[Front. Immunol. 12:598778]
+
 Installation:
 ____________
 
