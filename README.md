@@ -37,5 +37,5 @@ _________________________
 
 Contact:
 _______
-
+    patricio.oyarzun@uss.cl
     k2007.manju@gmail.com
