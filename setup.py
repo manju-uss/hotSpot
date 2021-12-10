@@ -12,7 +12,7 @@ setup(
         },
     version=__version__,
     description="Script to find immunogenic hotspots",
-    author="Manju Kashyap",
+    author="Patricio Oyarzun, Manju Kashyap",
     license="MIT",
     install_requires=requirements,
     url='https://github.com/manju-uss'
